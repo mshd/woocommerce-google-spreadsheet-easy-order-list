@@ -2,7 +2,7 @@
 List your orders from WooCommerce to Google sheets with one click. This is the only working rep with using the newest Woocommerce API version
 
 # Easy Installation
-[https://docs.google.com/spreadsheets/d/1WTTJ3oyAuregZzK9ka7RZQNKSUq-5XCKhQ5-ABUxj0M/edit?usp=sharing](Open this spreadsheet ) and make a copy to your drive
+<a href="https://docs.google.com/spreadsheets/d/1WTTJ3oyAuregZzK9ka7RZQNKSUq-5XCKhQ5-ABUxj0M/edit?usp=sharing">Open this spreadsheet</a> and make a copy to your drive
 
 # Required Fields
 * Store URL: http://mywordpresssite.com
